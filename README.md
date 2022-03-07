@@ -1,1 +1,1 @@
-# KimYongWoo_202100868
+For studying Advanced Python Friday 456
